@@ -166,7 +166,7 @@ Saldo restante do cartão: R$ 0.00
 ## ✨ **Autor**
 
 **Wellington de Morais**  
-📍 Desenvolvedor Java | [Linkedin] (https://www.linkedin.com/in/wellington-de-morais-65aba6158/)
+📍 Desenvolvedor Java | [Linkedin](https://www.linkedin.com/in/wellington-de-morais-65aba6158/)
 🔗 [GitHub](https://github.com/wemorais)
 
 ---
